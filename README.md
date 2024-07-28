@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD : WALID ALAM</h1>
 <h3 align="center">Computer Science and Engineering Student at REC in Bangladesh</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=317 width=400 src="![image](https://github.com/user-attachments/assets/03ae4f0f-2a6c-4bd4-9243-e1e8b3a22733)
+.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdwalidalam&label=Profile%20views&color=0e75b6&style=flat" alt="mdwalidalam" /> </p>
