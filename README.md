@@ -1,3 +1,4 @@
+![logo](https://github.com/mdwalidalam/mdwalidalam/blob/main/my%20github%20banner.png)
 <h1 align="center">Hi 👋, I'm MD : WALID ALAM</h1>
 <h3 align="center">Computer Science and Engineering Student at REC in Bangladesh</h3>
 <img align="right"alt="coding"width="400" src="![image](https://github.com/user-attachments/assets/a64fe877-beec-4598-9a92-91506bcae4de).gif">
